@@ -1,4 +1,6 @@
 💫 About Me:
+
+
 🔭 I’m currently pursuing an M.Tech in CSE with a specialization in Data Science and Artificial Intelligence at IIIT Naya Raipur.<br>🌱 I’m learning advanced topics in machine learning and cloud computing.<br>👯 I’m looking to collaborate on projects related to recommendation systems, sentiment analysis, and AI-based tools.<br>🤔 I’m seeking opportunities to improve in areas such as API development and large-scale data processing.<br>💬 Ask me about Python, data-driven solutions, and cloud technologies.<br>📫 How to reach me: triptisharma113@gmail.com.<br>⚡ Fun fact: I’ve tackled real-world challenges like developing music recommendation systems and sentiment analysis tools!
 
 🌐 Socials:
