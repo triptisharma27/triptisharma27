@@ -31,3 +31,21 @@ Repository Link
 🏅 Winner of MIT's "Hacking Racism in Healthcare" Hackathon.
 📜 TCS Career Edge Certification - Knockdown the Lockdown.
 🚀 Participated in IIT Kharagpur's Entrepreneurship Awareness Drive.
+
+
+
+📊 GitHub Stats:
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
+
